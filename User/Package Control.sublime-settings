@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Anaconda",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements"
+	]
+}
