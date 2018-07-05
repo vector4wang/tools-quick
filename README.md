@@ -1,8 +1,10 @@
-# tools-quick
-工欲善其事必先利其器
+# idea 
 
-> 存储自己用到的工具和配置，统一一下！方便自己~ 每个branch代表一个工具
+## idea的code模板，如一些注释之类的
 
-## sublime-text3 
-强大的文本编辑工具，直接把它package目录作为该分支的仓库，将插件保存在此~~~ [:link:](https://github.com/vector4wang/tools-quick/tree/sublime-text3)
- 
+> File -> export setting 
+
+一个公司的一个自用的
+
+## gitignore 代码的忽略清单
+也可以直接在github上找
