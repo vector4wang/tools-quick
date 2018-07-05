@@ -1,8 +1,13 @@
 {
-    "color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
-    "ignored_packages":
-    [
-    ],
-    "theme": "Boxy Tomorrow.sublime-theme",
-    "default_encoding": "UTF-8"
+  "color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+  "default_encoding": "UTF-8",
+  "ignored_packages": [
+    "Emmet",
+    "JsFormat",
+    "Markdown",
+    "Theme - Spacegray"
+  ],
+  "hot_exit": true, // 默认值为true，它便是决定是否出现保存提示的关键，开启这个参数未保存的文件便会单独存储。
+  "remember_open_files": true, // 打开上一次打开的文件了，这个参数依赖于hot_exit，只在开启hot_exit时生效。
+  "theme": "Boxy Tomorrow.sublime-theme"
 }
