@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
 	"default_encoding": "UTF-8",
 	"hot_exit": true,
 	"ignored_packages":
@@ -7,8 +7,9 @@
 		"Emmet",
 		"JsFormat",
 		"Markdown",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Vintage"
 	],
 	"remember_open_files": true,
-	"theme": "Boxy Tomorrow.sublime-theme"
+	"theme": "Boxy Solarized Dark.sublime-theme"
 }
