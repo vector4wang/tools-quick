@@ -14,3 +14,6 @@
 > Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。 
 
 简单的说，通过插件可直接在目标页执行script，实现一些奇妙的功能，比如拿到百度网盘中文件的下载链接~哈哈哈[:link:](https://github.com/vector4wang/tools-quick/blob/Tampermonkey-script/README.md)
+
+## teamviwwer crack
+teamviwer的破解脚本
